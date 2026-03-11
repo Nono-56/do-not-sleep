@@ -1,0 +1,8 @@
+{
+  "mode": "keyboard",
+  "selected_key": "F13",
+  "interval_value": 5,
+  "interval_unit": "minutes",
+  "end_time_enabled": false,
+  "end_time": ""
+}
